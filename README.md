@@ -22,8 +22,8 @@
 
 1. 下载代码库：
     ```bash
-    git clone https://github.com/ziqing888/Megafin-bot.git
-    cd Megafin-bot
+    git clone https://github.com/ziqing888/Mega-bot.git
+    cd Mega-bot
     ```
 2. 安装依赖：
     ```bash
