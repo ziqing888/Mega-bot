@@ -6,7 +6,7 @@ export async function solveCaptcha(key) {
     const sitekey = "0x4AAAAAAA0SGzxWuGl6kriB";
     try {
         const result = await solver.cloudflareTurnstile({ pageurl, sitekey });
-        return result.data; // Return the result of solving the CAPTCHA
+        return result.data; 
     } catch (err) {
         throw new Error(`Error solving CAPTCHA: ${err.message}`);
     }
