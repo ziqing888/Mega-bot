@@ -2,7 +2,8 @@
 通过共享您的互联网带宽来轻松赚钱，立即加入！  
 👉 [仪表盘](https://app.megafin.xyz/upgrade?ref=a329efba) | 🌟 [升级计划](https://app.megafin.xyz/upgrade?ref=a329efba)
 
-![Megafin Banner](image.png)
+![image](https://github.com/user-attachments/assets/5657ad52-23f2-47fd-ac4d-6073c713a0ff)
+
 
 ---
 
