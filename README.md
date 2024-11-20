@@ -16,6 +16,7 @@
 - **API 密钥**: 有效的 2Captcha API 密钥，用于处理验证码。
 
 获取您的 API 密钥：[https://2captcha.com/](https://2captcha.com/?from=24232873)
+要充值最少3u
 
 ## 安装和使用
 
