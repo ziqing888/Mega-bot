@@ -15,7 +15,7 @@
 - **依赖安装**: 使用 `npm install` 安装所需依赖。
 - **API 密钥**: 有效的 2Captcha API 密钥，用于处理验证码。
 
-获取您的 API 密钥：[https://2captcha.com/](https://2captcha.com/)
+获取您的 API 密钥：[https://2captcha.com/](https://2captcha.com/?from=24232873)
 
 ## 安装和使用
 
