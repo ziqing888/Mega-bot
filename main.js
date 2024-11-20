@@ -30,7 +30,7 @@ async function createMultipleWallets(numWallets, apiKey) {
         }
     }
 
-    Kopi.saveToTokenFile(tokens); // 保存令牌到文件
+    Kopi.saveToTokenFile(tokens); 
 }
 
 
@@ -75,7 +75,7 @@ async function main(apiKey) {
     }
 }
 
-// 启动函数
+
 (async () => {
     const rl = Kopi.readline.createInterface({
         input: process.stdin,
@@ -85,7 +85,7 @@ async function main(apiKey) {
     Kopi.logger(Kopi.banner, "debug");
 
     try {
-        // 菜单
+       
         Kopi.logger("选择一个选项:\n1. 创建并注册钱包\n2. 加载现有令牌并运行");
         const choice = await rl.question("输入你的选择 (1 或 2): ");
 
@@ -106,7 +106,7 @@ async function main(apiKey) {
             await createMultipleWallets(numWallets, apiKey);
 
         } else if (choice === "2") {
-            // 加载现有令牌
+            
             const apiKey = await rl.question("输入你的验证码解决API密钥: ");
             
             Kopi.logger('将在1分钟内开始处理钱包....');
