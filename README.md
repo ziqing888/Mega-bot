@@ -41,5 +41,5 @@
     npm run start
     ```
 4. 根据终端中的提示完成设置。
-![image](https://github.com/user-attachments/assets/be268e13-cbf3-48cd-8303-a48a7c49693b)
+
 
