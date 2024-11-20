@@ -24,7 +24,7 @@ async function coday(url, method, headers, payloadData = null) {
             return { error: true, status: response.status, data: errorData };
         }
 
-        // Return parsed JSON for successful responses
+       
         return await response.json();
     } catch (error) {
         console.error('Error in coday:', error);
